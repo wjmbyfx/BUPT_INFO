@@ -1,3 +1,5 @@
+# 住宿
+
 ## 前言
 
 沙河校区是新校区，住宿条件明显优于本部
@@ -36,6 +38,10 @@
 
 <img src="Source\Pic\本部学一男生宿舍内部1.jpg" style="zoom:25%;" />
 
-本部学一男生宿舍走廊1
+本部学一男生宿舍走廊
 
 <img src="Source\Pic\本部学一男生宿舍走廊1.jpg" style="zoom:25%;" />
+
+本部某本科生六人间
+
+<img src="Source\Pic\本部某本科生六人间.jpg" style="zoom: 33%;" />
