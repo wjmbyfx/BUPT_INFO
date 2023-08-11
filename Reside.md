@@ -31,3 +31,11 @@
 本部学十一女生宿舍走廊
 
 <img src="Source\Pic\本部学十一女生宿舍走廊.jpg" style="zoom:25%;" />
+
+本部学一男生宿舍内部
+
+<img src="Source\Pic\本部学一男生宿舍内部1.jpg" style="zoom:25%;" />
+
+本部学一男生宿舍走廊1
+
+<img src="Source\Pic\本部学一男生宿舍走廊1.jpg" style="zoom:25%;" />
