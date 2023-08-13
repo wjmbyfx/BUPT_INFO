@@ -26,9 +26,17 @@
 
 <img src="Source\Pic\沙河S6女生宿舍水房.jpg" style="zoom:5%;" />
 
-北邮本部学二宿舍内部
+北邮本部学二宿舍八人间内部
 
 <img src="Source\Pic\北邮本部学二宿舍内部.png" style="zoom:25%;" />
+
+<img src="Source\Pic\本部学二室内柜子.jpg" style="zoom:10%;" />
+
+<img src="D:\BUPT_INFO\Source\Pic\本部学二阳台.jpg" style="zoom:10%;" />
+
+北邮本部学二宿舍十人间内部
+
+<img src="D:\BUPT_INFO\Source\Pic\本部学二10人间.jpg" style="zoom:10%;" />
 
 本部学十一女生宿舍走廊
 
