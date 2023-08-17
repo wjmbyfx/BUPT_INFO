@@ -36,7 +36,7 @@
 
 北邮本部学二宿舍十人间内部
 
-<img src="D:\BUPT_INFO\Source\Pic\本部学二10人间.jpg" style="zoom:10%;" />
+<img src="Source\Pic\本部学二10人间.jpg" style="zoom:10%;" />
 
 本部学十一女生宿舍走廊
 
